@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://backend.someone.digital/wp-content/uploads/2017/12/Aston-Villa-Bas-2.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    color: aliceblue;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+
+
+
+}
+img{
+    border: 2px solid black;
+    width: 100%;
+    padding: 2px;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    
+}
+
+
+
+.common{
+    position: absolute;
+    width: 100%;
+
+}
+.footer{
+z-index: 1;
+position: fixed;
+bottom: 0px;
+display: block;
+right: 0px;
+left: 0px;
+background-color: white;
+}
+.header{
+top: 0px;
+}
+.body{
+top: 700px;
+
+}
